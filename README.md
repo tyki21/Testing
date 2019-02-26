@@ -1,2 +1,2 @@
 # color-schemes
-Where I would test all of my css pallettes
+Where I would test all of my css palettes
